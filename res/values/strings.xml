@@ -2,9 +2,10 @@
 <resources>
 
     <string name="app_name">DailySelfie</string>
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="action_camera">Camera</string>
     
 	<string name="album_name">DailySelfie</string>
+	<string name="disk_cache_description">abc123
+    </string>
 </resources>
